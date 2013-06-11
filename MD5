@@ -1,0 +1,10 @@
+21f68c7efb2b139b1b02a38e39d7adb6 *DESCRIPTION
+ce59c4f52379486503d3d11ff61f5c69 *NAMESPACE
+021fd3e15b090dee88c00220890eaaca *R/get.api.url.R
+5c1e63058ba4ebe1b8efa9ee24802896 *R/get.meta.info.R
+59d121d9f093af46ffbf6fa1bef8a17d *R/get.stat.data.R
+6bb0b6bd40fd47122824aa216d9f6c1b *R/get.stat.list.R
+e84cf22c271f3dc8336f075d86cc2b88 *man/get.meta.info.Rd
+c0287686d73e6182643e16e6133abd41 *man/get.stat.data.Rd
+dd943da998161b080d8499ae0581d255 *man/get.stat.list.Rd
+59f2db2c77fb885e140a7b7a40f0873d *man/govStatJPN-package.Rd
